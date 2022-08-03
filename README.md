@@ -13,7 +13,7 @@ study han-ji, 1800 word(actually used in korean)
      한자 자체를 이해하는 데 있어서 그저 뜻과 음만을 알 수 있는게 아닌(fact)   
      한자 자체의 흐름을 파악하고 이해할 수 있게끔 concept를 정리해준   
      한자로드님의 정리      
-         --> https://www.youtube.com/c/hanjaroad
+         --> https://www.youtube.com/c/hanjaroad   
              https://hanja.dict.naver.com/#/category/picture?t=1&page=1
          
          
